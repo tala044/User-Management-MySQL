@@ -1,4 +1,4 @@
-# User Management System
+# User Management MySQL
 
 A web-based user management system built with PHP, MySQL, HTML, CSS, and JavaScript, featuring user records and real-time status management.
 
@@ -66,4 +66,3 @@ The project uses a MySQL database with a `users` table containing the following 
 The live project can be accessed here:
 
 [User Management System](https://tala.free.je/index.php)
-
