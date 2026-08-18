@@ -2,7 +2,7 @@
 
 $host = "sql305.infinityfree.com";
 $username = "if0_42483734";
-$password = "ZdDWhKpQ5YgyEk";
+$password = "123456";
 $database = "if0_42483734_usersdb";
 
 $conn = new mysqli($host, $username, $password, $database);
