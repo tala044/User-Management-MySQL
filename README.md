@@ -66,6 +66,4 @@ The project uses a MySQL database with a `users` table containing the following 
 The live project can be accessed here:
 
 [User Management System](https://tala.free.je/index.php)
-The live project can be accessed here:
 
-[User Management System](https://tala.free.je/index.php)
